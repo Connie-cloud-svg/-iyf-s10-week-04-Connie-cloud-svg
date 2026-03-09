@@ -1,11 +1,14 @@
-let name = "Connie";
-let age = 18;
-const birthYear = 2008;
+let myName = "Concepter";
+let myAge = 18;
+const myBirthYear = 2008;
+let isStudent = true;
+let myFavColors = [ "baby blue", "cyan", "dark blue" ];
+let today = new Date();
 
 // typeof operator
-console.log(typeof name);    // string
-console.log(typeof age);     // number
-console.log(typeof true);    // boolean
+console.log( "Name:", myName);    // Returns name Concepter
+console.log( "Age:", myAge);     // currrent age 18
+console.log("Student?:", isStudent);    // returns true
 
 // let vs const
 let score = 100;
