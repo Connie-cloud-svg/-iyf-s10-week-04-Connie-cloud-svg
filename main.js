@@ -9,6 +9,13 @@ let today = new Date();
 console.log( "Name:", myName);    // Returns name Concepter
 console.log( "Age:", myAge);     // currrent age 18
 console.log("Student?:", isStudent);    // returns true
+console.log("Favourite Colors:", myFavColors); // returns baby blue, cyan, dark blue
+console.log("Today:", today); // the date today
+
+function greet(name) {
+    return `Hello ${name}!`
+}
+console.log(greet(myName)); // Hello Concepter!
 
 // let vs const
 let score = 100;
