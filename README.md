@@ -6,7 +6,7 @@
 - **Date:** March 19th, 2026.
 
 ## Project Description
-This week marks the beginning of the JavaScript journey. The focus was on understanding core JS concepts — variables, data types, functions, control flow, arrays, and objects — and how they power interactive websites. I built two mini-projects : an **interactive console calculator** and a **student grade tracker system**.
+This week marks the beginning of the JavaScript journey. The focus was on understanding core JS concepts — variables, data types, functions, control flow, arrays and objects — and how they power interactive websites. I built two mini-projects : an **interactive console calculator** and a **student grade tracker system**.
 
 ## Technologies Used
 - HTML5
