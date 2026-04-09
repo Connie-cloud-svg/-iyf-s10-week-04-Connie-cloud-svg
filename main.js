@@ -91,7 +91,7 @@ function printNumbers() {
 }
 printNumbers(); // prints numbers from 1 to 100 in the console
 
-// print only even numbers 1 to 50
+// print only even numbers from 1 to 50
 function printEvenNumbers() {
   for (let p = 1; p <= 50; p++) {
     if (isEven(p)) {
